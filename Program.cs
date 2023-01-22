@@ -7,7 +7,6 @@ class MainClass
 
         string myName;
         myName = "Jane";
-
         Console.WriteLine(myName);
 
         Console.ReadKey();
